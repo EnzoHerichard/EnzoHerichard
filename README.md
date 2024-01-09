@@ -1,7 +1,10 @@
 <h1 align="center">Hello 👋, I'm Enzo HERICHARD</h1>
 <h3 align="center">A developer from France</h3>
 
-<h3 align="left">Contact: herichardenzo@gmail.com</h3>
+<h3 align="left">Contact: </h3>
+<p align="left">
+herichardenzo@gmail.com
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
